@@ -1,0 +1,15 @@
+/Users/hamiltonwhite/Desktop/Learning_C#/ch4/bin/Debug/net6.0/ch4
+/Users/hamiltonwhite/Desktop/Learning_C#/ch4/bin/Debug/net6.0/ch4.deps.json
+/Users/hamiltonwhite/Desktop/Learning_C#/ch4/bin/Debug/net6.0/ch4.runtimeconfig.json
+/Users/hamiltonwhite/Desktop/Learning_C#/ch4/bin/Debug/net6.0/ch4.dll
+/Users/hamiltonwhite/Desktop/Learning_C#/ch4/bin/Debug/net6.0/ch4.pdb
+/Users/hamiltonwhite/Desktop/Learning_C#/ch4/obj/Debug/net6.0/ch4.csproj.AssemblyReference.cache
+/Users/hamiltonwhite/Desktop/Learning_C#/ch4/obj/Debug/net6.0/ch4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hamiltonwhite/Desktop/Learning_C#/ch4/obj/Debug/net6.0/ch4.AssemblyInfoInputs.cache
+/Users/hamiltonwhite/Desktop/Learning_C#/ch4/obj/Debug/net6.0/ch4.AssemblyInfo.cs
+/Users/hamiltonwhite/Desktop/Learning_C#/ch4/obj/Debug/net6.0/ch4.csproj.CoreCompileInputs.cache
+/Users/hamiltonwhite/Desktop/Learning_C#/ch4/obj/Debug/net6.0/ch4.dll
+/Users/hamiltonwhite/Desktop/Learning_C#/ch4/obj/Debug/net6.0/refint/ch4.dll
+/Users/hamiltonwhite/Desktop/Learning_C#/ch4/obj/Debug/net6.0/ch4.pdb
+/Users/hamiltonwhite/Desktop/Learning_C#/ch4/obj/Debug/net6.0/ch4.genruntimeconfig.cache
+/Users/hamiltonwhite/Desktop/Learning_C#/ch4/obj/Debug/net6.0/ref/ch4.dll
